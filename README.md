@@ -69,63 +69,63 @@ Basic Analysis
 
 - Who is the best customer based on spending?
 
-  Intermediate Analysis
+Intermediate Analysis
 
-Identify Rock music listeners
+- Identify Rock music listeners
 
-Find the top 10 rock bands based on track count
+- Find the top 10 rock bands based on track count
 
-Identify tracks longer than the average song length
+- Identify tracks longer than the average song length
 
 Advanced Analysis
 
-Calculate customer spending per artist
+- Calculate customer spending per artist
 
-Identify the most popular music genre per country
+- Identify the most popular music genre per country
 
-Find the top customer in each country based on spending
+- Find the top customer in each country based on spending
 
-📊 Key Insights
+## 📊 Key Insights
 
-Certain customers contribute significantly higher revenue than others.
+- Certain customers contribute significantly higher revenue than others.
 
-Popular music genres vary significantly across different countries.
+- Popular music genres vary significantly across different countries.
 
-Rock music listeners form a strong segment in the dataset.
+- Rock music listeners form a strong segment in the dataset.
 
-Customer spending patterns help identify high-value customers and target marketing opportunities.
+- Customer spending patterns help identify high-value customers and target marketing opportunities.
 
-📁 Project Structure
+## 📁 Project Structure
 Music_Store_SQL_Analysis/
 │
 ├── Music_Store_SQL_Project.sql
-├── Database_Schema.png (optional)
+├── Database_Schema.png
 └── README.md
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
-Import the Music Store database into your SQL environment.
+1. Import the Music Store database into your SQL environment.
 
-Open the SQL script file.
+2. pen the SQL script file.
 
-Execute queries step-by-step to explore the analysis.
+3. Execute queries step-by-step to explore the analysis.
 
-Review query results to understand customer behavior and sales insights.
+4. Review query results to understand customer behavior and sales insights.
 
-💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
 This project demonstrates the ability to:
 
-Analyze relational databases using SQL
+- Analyze relational databases using SQL
 
-Perform complex multi-table joins
+- Perform complex multi-table joins
 
-Use CTEs and window functions for advanced analysis
+- Use CTEs and window functions for advanced analysis
 
-Translate business questions into SQL queries
+- Translate business questions into SQL queries
 
-Generate actionable insights from data
+- Generate actionable insights from data
 
-👤 Author
+## 👤 Author
 
 Naiko Naveen
 Data Analyst | SQL | Python | Power BI
@@ -134,4 +134,4 @@ LinkedIn:
 https://www.linkedin.com/in/naiko-naveen-b4a585253/
 
 GitHub:
-https://github.com/naiko-naveen
+https://github.com/naveen6870/
