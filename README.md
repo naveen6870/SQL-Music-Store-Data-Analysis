@@ -22,13 +22,13 @@ The goal of this project is to demonstrate strong SQL skills including **joins, 
 The dataset consists of multiple relational tables including:
 
 **Table - Description**
-customer - Customer information
-invoice - Customer purchase transactions
-invoice_line - Detailed line items for each invoice
-track - Song information
-album - Album details
-artist - Artist information
-genre	Music - genre classification
+- customer - Customer information
+- invoice - Customer purchase transactions
+- invoice_line - Detailed line items for each invoice
+- track - Song information
+- album - Album details
+- artist - Artist information
+- genre	Music - genre classification
 
 These tables are connected using **primary and foreign key relationships**.
 
