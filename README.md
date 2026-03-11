@@ -1,38 +1,38 @@
-🎵 Music Store SQL Analysis
-📌 Project Overview
+# 🎵 Music Store SQL Analysis
+## 📌 Project Overview
 
 This project analyzes a music store database to uncover insights about customer behavior, sales performance, and music preferences. Using SQL queries, the analysis explores relationships between customers, invoices, artists, albums, tracks, and genres to answer real-world business questions.
 
-The goal of this project is to demonstrate strong SQL skills including joins, subqueries, CTEs, and window functions while generating actionable insights from relational data.
+The goal of this project is to demonstrate strong SQL skills including **joins, subqueries, CTEs, and window functions** while generating actionable insights from relational data.
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
-Identify the best customers based on total spending
+- Identify the **best customers** based on total spending
 
-Determine top-selling artists and genres
+- Determine **top-selling artists and genres**
 
-Analyze customer purchasing behavior across countries
+- Analyze **customer purchasing behavior across countries**
 
-Identify popular music genres in different regions
+- Identify **popular music genres in different regions**
 
-Understand customer spending patterns on artists
+- Understand **customer spending patterns on artists**
 
-🗂️ Database Schema
+## 🗂️ Database Schema
 
 The dataset consists of multiple relational tables including:
 
-Table	Description
-customer	Customer information
-invoice	Customer purchase transactions
-invoice_line	Detailed line items for each invoice
-track	Song information
-album	Album details
-artist	Artist information
-genre	Music genre classification
+**Table - Description**
+customer - Customer information
+invoice - Customer purchase transactions
+invoice_line - Detailed line items for each invoice
+track - Song information
+album - Album details
+artist - Artist information
+genre	Music - genre classification
 
-These tables are connected using primary and foreign key relationships.
+These tables are connected using **primary and foreign key relationships**.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 SQL (PostgreSQL / MySQL compatible)
 
