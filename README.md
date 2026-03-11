@@ -34,42 +34,42 @@ These tables are connected using **primary and foreign key relationships**.
 
 ## 🛠️ Tools & Technologies
 
-SQL (PostgreSQL / MySQL compatible)
+- **SQL (PostgreSQL)**
 
-Relational database queries
+- Relational database queries
 
-GitHub for version control
+- GitHub for version control
 
-Key SQL concepts used:
+ Key SQL concepts used:
 
-Joins (INNER JOIN)
+- Joins (INNER JOIN)
 
-Aggregations (SUM, COUNT, AVG)
+- Aggregations (SUM, COUNT, AVG)
 
-Subqueries
+- Subqueries
 
-Common Table Expressions (CTE)
+- Common Table Expressions (CTE)
 
-Window Functions
+- Window Functions
 
-Group By and Order By
+- Group By and Order By
 
-Data filtering and ranking
+- Data filtering and ranking
 
-🔍 Key Business Questions Answered
+## 🔍 Key Business Questions Answered
 Basic Analysis
 
-Who is the senior-most employee?
+- Who is the senior-most employee?
 
-Which countries generate the most invoices?
+- Which countries generate the most invoices?
 
-What are the top invoice values?
+- What are the top invoice values?
 
-Which city generates the highest revenue?
+- Which city generates the highest revenue?
 
-Who is the best customer based on spending?
+- Who is the best customer based on spending?
 
-Intermediate Analysis
+  Intermediate Analysis
 
 Identify Rock music listeners
 
