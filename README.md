@@ -95,12 +95,6 @@ Advanced Analysis
 
 - Customer spending patterns help identify high-value customers and target marketing opportunities.
 
-## 📁 Project Structure
-Music_Store_SQL_Analysis/
-│
-├── Music_Store_SQL_Project.sql
-├── Database_Schema.png
-└── README.md
 ## 🚀 How to Run the Project
 
 1. Import the Music Store database into your SQL environment.
